@@ -1,0 +1,10 @@
+table {
+	border-spacing: 0;
+	border-collapse: separate;
+}
+
+a:link, a:visited, a:active {
+	border: 2px solid lightblue;
+	border-radius: 2px;
+	color: #ffff00;
+}
