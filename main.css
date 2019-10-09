@@ -29,11 +29,11 @@ table {
 a:link, a:visited, a:active {
 	border: 5px solid skyblue;
 	border-radius: 2px;
-	color: #ff0000;
+	color: red;
 }
 
 .carousel-item{
-    margin-left: 20em;
+    margin-left: 25em;
 }
 
 h3{
@@ -42,4 +42,22 @@ h3{
     text-align: center;
     margin: 1.1em;
     
+}
+
+table {
+	border-spacing: 0;
+	border-collapse: separate;
+}
+
+table td {
+	background-color: pink;
+	border: 1px solid white;
+	color: #ff0000;
+	margin: .50em;
+	padding: .50em;
+}
+
+table tr {
+	margin: .50em;
+	padding: .50em;
 }
