@@ -52,7 +52,7 @@ table {
 table td {
 	background-color: pink;
 	border: 8px solid white;
-	color: #ff0000;
+	color: red;
 	margin: .50em;
 	padding: .50em;
 }
